@@ -1,8 +1,11 @@
 ## Surface-Aware Distilled 3D Semantic Features
 
-![Header](./img/teaser.gif)
+### SIGGRAPH Asia 2025
 
 #### [🌐 Project Page](https://lukas.uzolas.com/SurfaceAware3DFeatures/) | [📝 Preprint](https://arxiv.org/abs/2503.18254) 
+
+![Header](./img/teaser.gif)
+
 
 **[Lukas Uzolas](https://lukas.uzolas.com/), 
 [Elmar Eisemann](https://graphics.tudelft.nl/~eisemann/),
