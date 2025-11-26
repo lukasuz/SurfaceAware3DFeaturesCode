@@ -1,0 +1,10 @@
+name: sa3df
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10 # 3.10 plays nicely with the other repositories
+  - meshplot
+  - pip
+  - pip:
+    - -r requirements.txt

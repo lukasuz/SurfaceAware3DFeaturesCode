@@ -1,0 +1,9 @@
+[submodule "Diff3D"]
+	path = Diff3D
+	url = git@github.com:niladridutt/Diffusion-3D-Features.git
+[submodule "SMALify"]
+	path = SMALify
+	url = git@github.com:benjiebob/SMALify.git
+[submodule "NeuralJacobianFields"]
+	path = NeuralJacobianFields
+	url = git@github.com:ThibaultGROUEIX/NeuralJacobianFields.git
