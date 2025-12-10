@@ -5,7 +5,7 @@
 
 ### SIGGRAPH Asia 2025
 
-#### [🌐 Project Page](https://graphics.tudelft.nl/SurfaceAware3DFeatures) | [📝 Paper](https://arxiv.org/abs/2503.18254) 
+#### [🌐 Project Page](https://graphics.tudelft.nl/SurfaceAware3DFeatures) | [📝 Paper](https://dl.acm.org/doi/10.1145/3757377.3763974) | [📝 arXiv](https://arxiv.org/abs/2503.18254) 
 
 **[Lukas Uzolas](https://lukas.uzolas.com/), 
 [Elmar Eisemann](https://graphics.tudelft.nl/~eisemann/),
@@ -80,13 +80,21 @@ The provided meshes in the data folder originate from [polyhaven.com](https://po
 ### Citation
 
 ```
-@misc{uzolas2025surfaceawaredistilled3dsemantic,
-      title={Surface-Aware Distilled 3D Semantic Features}, 
-      author={Lukas Uzolas and Elmar Eisemann and Petr Kellnhofer},
-      year={2025},
-      eprint={2503.18254},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.18254}, 
+@inproceedings{10.1145/3757377.3763974,
+    author = {Uzolas, Lukas and Eisemann, Elmar and Kellnhofer, Petr},
+    title = {Surface-Aware Distilled 3D Semantic Features},
+    year = {2025},
+    isbn = {9798400721373},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3757377.3763974},
+    doi = {10.1145/3757377.3763974},
+    booktitle = {Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+    articleno = {3},
+    numpages = {12},
+    keywords = {Semantic Features, Contrastive Learning, Motion Transfer, Reposing, Shape Correspondences},
+    location = {
+    },
+    series = {SA Conference Papers '25}
 }
 ```
