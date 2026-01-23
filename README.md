@@ -68,7 +68,7 @@ python train_feature_network.py --exp_name polyhaven_chairs --exp_path experimen
 To run the applications (`applications.ipynb`), you will need to set up the dummy data (See section 'Dummy Data' above), and either retrain the networks or download the weights from the pre-trained models.
 
 ### Weights
-_Soon_
+Weights of two pre-trained networks can be found [here](https://surfdrive.surf.nl/s/T6Ckyr5imiL7ZBf). Extract the contents of the .zip and place the `experiments` folder at the project root. Then you can make use of the weights as shown in the `applications.ipynb`.
 
 ### License
 
