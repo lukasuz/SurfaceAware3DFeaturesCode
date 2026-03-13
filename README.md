@@ -27,7 +27,7 @@ source .saf3d/bin/activate
 uv pip install torch torchvision --index-url https://download.pytorch.org/whl/$CUDA
 uv pip install --no-build-isolation setuptools pybind11 pip
 uv pip install --no-build-isolation -r requirements_uv.txt
-uv pip install --no-build-isolation"git+https://github.com/facebookresearch/pytorch3d.git@stable" 
+uv pip install --no-build-isolation "git+https://github.com/facebookresearch/pytorch3d.git@stable" 
 ```
 
 **Setup with Conda**:
