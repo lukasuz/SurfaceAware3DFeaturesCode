@@ -27,7 +27,7 @@ from Diff3D.pyFM.functional import FunctionalMapping # They have a custom implem
 from Diff3D.diff3f import get_features_per_vertex
 from Diff3D.utils import convert_mesh_container_to_torch_mesh
 
-sys.path.append(os.path.join('NeuralJacobianFields', 'source_njf'))
+sys.path.append(os.path.join(os.path.dirname(__file__), 'NeuralJacobianFields', 'source_njf'))
 from MeshProcessor import MeshProcessor
 
 cosine_sim = lambda x, y: torch.nn.functional.cosine_similarity(x, y, dim=-1)
